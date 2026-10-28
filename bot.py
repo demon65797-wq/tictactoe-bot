@@ -6,7 +6,7 @@ import logging
 import os
 
 # ================== TOKEN ==================
-TOKEN = "8759339265:AAEtdNelfHf70H__ToMi3koRd6KncTeDZC8"
+TOKEN = "8759339265:AAFlybxO3YBEi_Mldtph8m2TKkI_-k8C97Q"
 # ===========================================
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
